@@ -20,13 +20,13 @@ Check your progress by: Running the Rails server and using Postman make requests
 
 # Deliverables:
 
-* The ability to create, read, update and delete **Instructor**
-* Instructor will have a name
-* The ability to create, read, update and delete **Student**
-* Student will have name, major and age
-* The ability to select one instructor for a student (an instructor can have any number of students). When you create a new student or update an existing user.
-* Make sure instructor and student is not created without the names.
-* Make sure student's age is greater than 18 years.
+<!-- * The ability to create, read, update and delete **Instructor** -->
+<!-- * Instructor will have a name -->
+<!-- * The ability to create, read, update and delete **Student** -->
+<!-- * Student will have name, major and age -->
+<!-- * The ability to select one instructor for a student (an instructor can have any number of students). When you create a new student or update an existing user. -->
+<!-- * Make sure instructor and student is not created without the names. -->
+<!-- * Make sure student's age is greater than 18 years. -->
 
 # Instructions:
 * Fork this repository
